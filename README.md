@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sattam Chakma</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sattamap&theme=tokyonight" alt="GitHub Streak" /></a>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sattamap&theme=tokyonight" alt="GitHub Streak" /></a></p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sattamap" alt="sattamap" /></a> </p>
 
 - 🔭 I’m currently working on **Diagnostic Center Management System**
 
