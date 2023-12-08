@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sattam Chakma</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sattamap&theme=aura_dark)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sattamap&label=Profile%20views&color=0e75b6&style=flat" alt="sattamap" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sattamap" alt="sattamap" /></a> </p>
