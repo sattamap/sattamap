@@ -1,3 +1,6 @@
+<p>
+<img src="https://github.com/sattamap/sattamap/blob/main/banner_image.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Sattam Chakma</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sattamap&theme=tokyonight" alt="GitHub Streak" /></a></p>
