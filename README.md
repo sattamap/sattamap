@@ -13,6 +13,7 @@
 
 <br/>
 ## :mag_right: My Current Activities
+
 - 🔭 I’m currently working on **Diagnostic Center Management System**
 
 - 🌱 I’m currently learning **NEXT JS, RDUX**
