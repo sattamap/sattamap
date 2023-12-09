@@ -7,11 +7,6 @@
 
 <br />
 
-## :chart_with_upwards_trend: Current Stats
-
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sattamap&theme=tokyonight" alt="GitHub Streak" /></a></p>
-
-<br/>
 
 ## :mag_right: My Current Activities
 
@@ -97,17 +92,15 @@
 **Duration:** 5-7 days
 
 ### ii. Key Features
-- **Robust Appointment Management:** Efficiently handle appointments, patient records, and test results, ensuring a seamless user experience for both healthcare professionals and patients.
-- **Secure User Authentication:** Implement Firebase Authentication for secure email/password login.
-- **Dynamic Admin Dashboard:** Empower administrators to manage users, tests, reservations, and banners, providing complete control over the diagnostic center's operations.
+- **Robust Appointment Management:** 
+- **Secure User Authentication:** 
+- **Dynamic Admin Dashboard:**.
 
 ### iii. Technologies Used
-- **React:** Building dynamic and responsive user interfaces.
-- **UI Libraries:** Leveraging Material UI for consistent design components and customizing styles with Tailwind CSS and Daisy UI.
-- **Express.js and Node.js:** Developing a robust backend server to handle user authentication, database interactions, and admin functionalities.
-- **MongoDB:** Storing and managing user data, test details, reservations, and banners in a flexible NoSQL database.
+ **React:** , **UI Libraries:** , **Express.js and Node.js:** ,**MongoDB:**
 
 ### iv. [Live Site Link](https://dcms-52c0f.web.app)
+## More About Project [Click Here](https://github.com/sattamap/dcms-client)
 
 ### Project - 2
 
@@ -117,18 +110,15 @@
 **Duration:** 4-5 days
 
 ### ii. Key Features
-- **Tailored Job Listings:** Empower users to search and apply for jobs based on their preferences, including on-site, remote, hybrid, and part-time opportunities.
-- **Effortless Job Management:** Seamless CRUD operations for users, allowing them to post, update, and delete job listings.
-- **Interactive Application Process:** Implement a private route for applying to jobs with an auto-filled modal, ensuring a user-friendly application experience.
+- **Tailored Job Listings:** 
+- **Effortless Job Management:**
+- **Interactive Application Process:** 
 
 ### iii. Technologies Used
-- **React:** Building dynamic and responsive user interfaces.
-- **Tailwind CSS and Daisy UI:** Crafting visually appealing and customized designs.
-- **Express.js and Node.js:** Developing a robust backend server for handling CRUD operations.
-- **MongoDB:** Storing and managing job listings, user data, and applications in a flexible NoSQL database.
+**React:** , **Tailwind CSS and Daisy UI:** , **Express.js and Node.js:** , **MongoDB:** 
 
 ### iv. [Live Site Link](https://job-nest-94803.web.app)
-
+## More About Project [Click Here](https://github.com/sattamap/job-nest-client)
 
 ### Project - 3
 
@@ -138,16 +128,21 @@
 **Duration:** 4-5 days
 
 ### 2. Key Features
-- **Dynamic Product Management:** Empower users to add, update, and view electronic products effortlessly.
-- **Intuitive User Authentication:** Seamless registration and login with error handling and optional social login for a frictionless experience.
-- **Responsive Design with Dark/Light Theme Toggle:** A visually appealing and responsive website, offering users the flexibility to switch between dark and light themes.
+- **Dynamic Product Management:** 
+- **Intuitive User Authentication:** 
+- **Responsive Design with Dark/Light Theme Toggle:** 
 
 ### 3. Technologies Used
-- **React:** Building dynamic and interactive user interfaces.
-- **Tailwind CSS and Daisy UI:** Ensuring a responsive and visually appealing design.
-- **Express.js and Node.js:** Developing a robust and efficient backend server.
-- **MongoDB:** Storing and managing product and user data in a flexible NoSQL database.
+**React:**, **Tailwind CSS and Daisy UI:** , **Express.js and Node.js:** , **MongoDB:**
 ### iv. [Live Site Link](https://tech-fleet-b7d86.web.app)
+## More About Project [Click Here](https://github.com/sattamap/tech-fleet-client)
+<br/>
+
+## :chart_with_upwards_trend: Current Stats
+
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sattamap&theme=tokyonight" alt="GitHub Streak" /></a></p>
+
+<br/>
 
 
 
