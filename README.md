@@ -11,7 +11,8 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sattamap&theme=tokyonight" alt="GitHub Streak" /></a></p>
 
-
+<br/>
+## :mag_right: My Current Activities
 - 🔭 I’m currently working on **Diagnostic Center Management System**
 
 - 🌱 I’m currently learning **NEXT JS, RDUX**
