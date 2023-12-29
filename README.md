@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sattamap@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oJ6IQANVCxIDk5zaZ53ulkpalteQCZSg/view?usp=drive_link](https://drive.google.com/file/d/1oJ6IQANVCxIDk5zaZ53ulkpalteQCZSg/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16FB6l4UdhihWulwhedmqslRAU4My4jJo/view?usp=drive_link](https://drive.google.com/file/d/16FB6l4UdhihWulwhedmqslRAU4My4jJo/view?usp=drive_link)
 
 
 ## :link: Reach me out
